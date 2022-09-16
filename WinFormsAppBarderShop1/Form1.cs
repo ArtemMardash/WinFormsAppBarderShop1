@@ -51,6 +51,7 @@ namespace WinFormsAppBarderShop1
                 MessageBox.Show(ex.Message);
             }
         }
+            
         /// <summary>
         /// Method to solve all exercise;
         /// </summary>
